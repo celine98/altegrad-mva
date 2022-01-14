@@ -1,2 +1,2 @@
-# altegrad-mva
-My lab solutions for the ALTEGRAD course (MVA 2021-2022)
+# ALTEGRAD labs
+My lab solutions for the Advanced Learning for Text and Graph Data (ALTEGRAD) course within the MVA program.
